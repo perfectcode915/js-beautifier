@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "extract-zip": "^2.0.1",
+    "fs": "^0.0.1-security",
+    "js-beautify": "^1.14.11",
+    "path": "^0.12.7"
+  }
+}
